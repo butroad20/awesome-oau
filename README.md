@@ -3,6 +3,11 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
 
 ---
 - [Android](#android)
+
+
+  - [P-Integrate](http://github.com/TaslimOseni/P-Integrate)
+    * This is a demo app that guides Android developers on how to integrate any of several popular payment platforms (Paystack, Google-Pay, etc) into their apps.
+    
   - [News App](https://play.google.com/store/apps/details?id=ng.codebag.newsapp)
      * This is an app that displays news sources in different available categories and latest news articles from those sources.      The app uses the NewsApi.org endpoints.
 
@@ -18,9 +23,6 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
       * Ever wanting to create a story or status with songs, your voice note, pictures, emoji and trending stickers including stickers relating to the songs; wait no more. With Storyart, you can select songs from your device or record voice and then attach to your story or status.
 
 
-  - [P-Integrate](http://github.com/TaslimOseni/P-Integrate)
-    * This is a demo app that guides Android developers on how to integrate any of several popular payment platforms (Paystack, Google-Pay, etc) into their apps.
-
 - [Bots](#bot)
     - [Norman](https://github.com/phvash/printing-bot)
     - [Taskiebot](https://github.com/elseagle/taskiebot)
@@ -33,6 +35,7 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
   
 - [API](#api)
   -[Twitter Sentiment API](http://github.com/elseagle/sentimental_analysis)
+  
     *An api that helps to get sentiments about companies and celebrities using Twitter API and textblob library (in python)
   
 
