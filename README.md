@@ -31,6 +31,10 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
   - [Pyfling](https://github.com/phvash/pyfing)
   - [Paypiper]()
   
+  - [API](#api)
+    -[Twitter Sentiment API](http://github.com/elseagle/sentimental_analysis)
+      *An api that helps to get sentiments about companies and celebrities using Twitter API and textblob library (in python)
+  
 
 ---
 ### Contribution
