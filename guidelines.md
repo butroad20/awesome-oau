@@ -1,0 +1,1 @@
+* Ensure to make your repository public before creating a PR.
