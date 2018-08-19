@@ -29,7 +29,7 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
 
 ---
 ### Contribution
-Your contributions and suggestions are heartily ♡ welcome. (✿◠‿◠)
+Your contributions and suggestions are heartily ♡ welcome. (✿◠‿◠). Check our [contribution guidelines](https://github.com/butroad20/awesome-oau/edit/master/CONTRIBUTING.md) to get started
 
 
 ---
