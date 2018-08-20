@@ -3,20 +3,24 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
 ---
 - [Android](#android)
 
-  - [P-Integrate](http://github.com/TaslimOseni/P-Integrate)
+  - [P-Integrate](http://github.com/TaslimOseni/P-Integrate): A demo app that helps Android developers integrate any of several payment platforms into their apps.
     
-  - [News App](https://play.google.com/store/apps/details?id=ng.codebag.newsapp)
+  - [News App](https://play.google.com/store/apps/details?id=ng.codebag.newsapp): An app that brings the latest news form various news sources from all over the world.
 
-  - [Shutdown Library](https://github.com/emmanuelkehinde/Shutdown)
+  - [Shutdown Library](https://github.com/emmanuelkehinde/Shutdown): An android library that handles the closing of your app interactively.
 
-  - [Whatsapp Statusaver](https://play.google.com/store/apps/details?id=com.hashcode.whatsstatussaver)
+  - [Whatsapp Statusaver](https://play.google.com/store/apps/details?id=com.hashcode.whatsstatussaver): An app that helps you save the status(es) of your whatsapp contacts with ease. 
       
-  - [Storyart](https://t.co/eo7ERxVhkb)
+  - [Storyart](https://t.co/eo7ERxVhkb): An app that helps you create a story/status with audio, pictures, emojis and trending stickers.
+
+
 
 - [Bots](#bot)
     - [Norman](https://github.com/phvash/printing-bot)
     - [Taskiebot](https://github.com/elseagle/taskiebot)
     - [Printing Bot](https://github.com/phvash/printing-bot)
+     
+     
      
 - [Python](#python)
   - [Bello](https://github.com/phvash/bello)
