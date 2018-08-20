@@ -29,7 +29,7 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
   
   
 - [API](#api)
-  -[Twitter Sentiment API](http://github.com/elseagle/sentimental_analysis) (by Oluwasogo Ogundowole)
+  - [Twitter Sentiment API](http://github.com/elseagle/sentimental_analysis) (by Oluwasogo Ogundowole)
   
 
 ---
