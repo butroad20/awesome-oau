@@ -16,20 +16,19 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
 
 
 - [Bots](#bot)
-    - [Norman](https://github.com/phvash/printing-bot)
-    - [Taskiebot](https://github.com/elseagle/taskiebot)
-    - [Printing Bot](https://github.com/phvash/printing-bot)
+    - [Norman](https://github.com/Olamyy/ProjectNorman): A facebook bot that acts as a medical personnel
+    - [Taskiebot](https://github.com/elseagle/taskiebot): A bot that allows you to schedule tasks and get friendly reminders
      
      
      
 - [Python](#python)
-  - [Bello](https://github.com/phvash/bello)
-  - [Pyfling](https://github.com/phvash/pyfing)
+  - [Bello](https://github.com/phvash/bello): ￼A video chat platform for devices connected over local networks
+  - [Pyfling](https://github.com/phvash/pyfing): ￼A mini-framework for file sharing over LAN networks written entirely in python.
   
   
   
 - [API](#api)
-  - [Twitter Sentiment API](http://github.com/elseagle/sentimental_analysis)
+  - [Twitter Sentiment API](https://github.com/elseagle/sentiment_analysis): An api that helps to get sentiments about companies and celebrities
   
 
 ---
