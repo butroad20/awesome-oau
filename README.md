@@ -3,32 +3,32 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
 ---
 - [Android](#android)
 
-  - [P-Integrate](http://github.com/TaslimOseni/P-Integrate): A demo app that helps Android developers integrate any of several payment platforms into their apps.
+  - [P-Integrate by Taslim Oseni](http://github.com/TaslimOseni/P-Integrate): A demo app that helps Android developers integrate any of several payment platforms into their apps.
     
-  - [News App](https://play.google.com/store/apps/details?id=ng.codebag.newsapp): An app that brings the latest news form various news sources from all over the world.
+  - [News App by Jerry Adeleye](https://play.google.com/store/apps/details?id=ng.codebag.newsapp): An app that brings the latest news form various news sources from all over the world.
 
-  - [Shutdown Library](https://github.com/emmanuelkehinde/Shutdown): An android library that handles the closing of your app interactively.
+  - [Shutdown Library by Emmanuel Kehinde](https://github.com/emmanuelkehinde/Shutdown): An android library that handles the closing of your app interactively.
 
-  - [Whatsapp Statusaver](https://play.google.com/store/apps/details?id=com.hashcode.whatsstatussaver): An app that helps you save the status(es) of your whatsapp contacts with ease. 
+  - [Whatsapp Statusaver by Oluwaleke Fakorede](https://play.google.com/store/apps/details?id=com.hashcode.whatsstatussaver): An app that helps you save the status(es) of your whatsapp contacts with ease. 
       
-  - [Storyart](https://t.co/eo7ERxVhkb): An app that helps you create a story/status with audio, pictures, emojis and trending stickers.
+  - [Storyart by Ilyas Igbalajobi](https://t.co/eo7ERxVhkb): An app that helps you create a story/status with audio, pictures, emojis and trending stickers.
 
 
 
 - [Bots](#bot)
-    - [Norman](https://github.com/phvash/printing-bot)
-    - [Taskiebot](https://github.com/elseagle/taskiebot)
-    - [Printing Bot](https://github.com/phvash/printing-bot)
+    - [Norman by David Asamu](https://github.com/phvash/printing-bot)
+    - [Taskiebot by Oluwasogo Ogundowole](https://github.com/elseagle/taskiebot)
+    - [Printing Bot by David Asamu](https://github.com/phvash/printing-bot)
      
      
      
 - [Python](#python)
-  - [Bello](https://github.com/phvash/bello)
-  - [Pyfling](https://github.com/phvash/pyfing)
+  - [Bello by David Asamu](https://github.com/phvash/bello)
+  - [Pyfling by David Asamu](https://github.com/phvash/pyfing)
   - [Paypiper]()
   
 - [API](#api)
-  -[Twitter Sentiment API](http://github.com/elseagle/sentimental_analysis)
+  -[Twitter Sentiment API by Oluwasogo Ogundowole](http://github.com/elseagle/sentimental_analysis)
   
 
 ---
