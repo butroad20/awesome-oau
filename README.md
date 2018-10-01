@@ -9,6 +9,8 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
 
   - [Shutdown Library](https://github.com/emmanuelkehinde/Shutdown): An android library that handles the closing of your app interactively.
 
+  - [TwittaSave](https://github.com/emmanuelkehinde/TwittaSave-Android): An android app that helps you download videos/gifs from twitter.
+
   - [Whatsapp Statusaver](https://play.google.com/store/apps/details?id=com.hashcode.whatsstatussaver): An app that helps you save the status(es) of your whatsapp contacts with ease. 
       
   - [Storyart](https://t.co/eo7ERxVhkb): An app that helps you create a story/status with audio, pictures, emojis and trending stickers.
@@ -28,7 +30,9 @@ A curated list of Awesome Projects made with ❤ in Obafemi Awolowo University
   
   
 - [API](#api)
-  - [Twitter Sentiment API](https://github.com/elseagle/sentiment_analysis): An api that helps to get sentiments about companies and celebrities
+  - [Twitter Sentiment API](https://github.com/elseagle/sentiment_analysis): An api that helps to get sentiments about companies and celebrities.
+
+  - [WAEC Results API](https://github.com/idoqo/waec): A PHP-Based API that helps retrieve WASSCE results in JSON format from the official WAEC website.
   
 
 ---
